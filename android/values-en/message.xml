@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="change_sim_title">warning</string>
+    <string name="change_sim_msg">message</string>
+    <string name="change_sim_error">error</string>
+</resources>

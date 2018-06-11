@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="change_sim_title">คำเตือน</string>
+    <string name="change_sim_msg">ข้อความ</string>
+    <string name="change_sim_error">ผิดพลาด</string>
+</resources>
